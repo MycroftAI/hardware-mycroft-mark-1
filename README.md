@@ -1,7 +1,7 @@
 # hardware-schematics
 *Open-sourcing our mechanical, electrical and industrial designs*
 
-Note that this repository is a work-in-progress and will get better over time.
+:sailboat: Note that this repository is a work-in-progress and will get better over time.
 
 ## Our open hardware principles
 * **Copy our designs** – build your own Mycroft MARK I or its individual parts
