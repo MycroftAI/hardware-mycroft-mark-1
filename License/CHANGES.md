@@ -7,8 +7,8 @@ our GitHub repository.
 
 #Format
 
-Your name  
-Date  
+**Your name**  
+*Date*  
 Description of modification  
 
 
@@ -16,8 +16,8 @@ Description of modification
 
 * older entry
 
-* David Smehlik  
-12/31/2032  
+* **David Smehlik**   
+*12/31/2032*  
 I used the original board design (electronics), but changed the 3D 
 printed enclosure so Mark 1 has 3 feet instead of 4, and the face
 and back plates are completely transparent. I created a pull request 
