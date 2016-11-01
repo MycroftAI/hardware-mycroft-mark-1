@@ -6,5 +6,5 @@ in touch with our Chief of Design Derick! (He was the one who designed
 Mycroft Mark 1’s enclosure.)
 
 **Derick Schweppe**   
-*Mycroft AI’s Chief of Design*  
+Mycroft AI’s Chief of Design  
 derick.schweppe@mycroft.ai  
