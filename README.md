@@ -4,7 +4,7 @@
 :sailboat: Note that this repository is a work-in-progress and will get better over time.
 
 ## Our open hardware principles
-* **Copy our designs** – build your own Mycroft MARK I or its individual parts
+* **Copy our designs** – build your own Mycroft MARK 1 or its individual parts
 * **Modify our designs** – remix is encouraged
 * **Sell products based on our designs** – commercial use is permitted
 * **Always keep the open license** – contribute your output back to the community
