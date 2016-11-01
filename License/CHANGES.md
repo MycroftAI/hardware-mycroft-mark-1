@@ -5,7 +5,7 @@ with the community, log your changes below, and upload the files to
 our GitHub repository.
 
 
-#Format
+##Format
 
 Your name  
 Date  
@@ -16,7 +16,7 @@ Description of modification
 
 older entry
 
-====================
+===
 
 David Smehlik  
 12/31/2032  
@@ -25,7 +25,7 @@ printed enclosure so Mark 1 has 3 feet instead of 4, and the face
 and back plates are completely transparent. I created a pull request 
 on GitHub with the modified files.
 
-====================
+===
 
 newer entry
 
