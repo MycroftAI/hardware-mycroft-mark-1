@@ -1,4 +1,3 @@
-# hardware-mycroft-mark-1
 *Open-sourcing our mechanical, electrical and industrial designs*
 
 :sailboat: Note that this repository is a work-in-progress and will get better over time.
