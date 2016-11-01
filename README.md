@@ -11,4 +11,4 @@
 * **Credit the original author(s)** – like they do in science
 
 ## License
-We're open-sourcing all our designs under XYZ Open Hardware License, which is one of the open hardware licenses recommended by OSHWA, the Open Source Hardware Association. The release involves every single piece of our design except components we have no control over, like the Raspberry Pi. We're also planning to join the [Open Source Hardware Certification Program](http://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/).
+We're open-sourcing all our designs under the [CERN Open Hardware License](http://ohwr.org/cernohl), which is one of the open hardware licenses recommended by OSHWA, the Open Source Hardware Association. The release involves every single piece of our design except components we have no control over, like the Raspberry Pi. We're also planning to join the [Open Source Hardware Certification Program](http://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/).
