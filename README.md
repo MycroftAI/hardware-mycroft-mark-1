@@ -18,6 +18,6 @@ If you are doing, or planning to do, something interesting with our designs, or 
 
 ![alt text](https://github.com/MycroftAI/hardware-mycroft-mark-1/blob/master/Derick.png "Derick")
 
-Derick Schweppe  
+**Derick Schweppe**  
 Mycroft AI’s Chief of Design  
 derick.schweppe@mycroft.ai
