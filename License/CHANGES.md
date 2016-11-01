@@ -5,14 +5,14 @@ with the community, log your changes below, and upload the files to
 our GitHub repository.
 
 
-**FORMAT**
+#Format
 
 Your name  
 Date  
 Description of modification  
 
 
-**EXAMPLE**
+##Example
 
 older entry
 
@@ -30,4 +30,4 @@ on GitHub with the modified files.
 newer entry
 
 
-**CHANGELOG**
+##Changelog
