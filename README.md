@@ -13,6 +13,8 @@
 ## License
 We're open-sourcing all our designs under the [CERN Open Hardware License](http://ohwr.org/cernohl), which is one of the open hardware licenses recommended by OSHWA, the Open Source Hardware Association. The release involves every single piece of our design except components we have no control over, like the Raspberry Pi. We're also planning to join the [Open Source Hardware Certification Program](http://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/).
 
+![alt text](https://github.com/MycroftAI/hardware-mycroft-mark-1/blob/master/oshw.png "OSHW")
+
 ## Contact
 If you are doing, or planning to do, something interesting with our designs, or if you just have a question regarding the files, get in touch with our Chief of Design Derick! (He was the one who designed Mycroft Mark 1’s enclosure.)
 
