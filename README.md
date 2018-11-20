@@ -11,7 +11,7 @@
 * **Credit the original author(s)** – like they do in science
 
 ## License
-We're open-sourcing all our designs under the [CERN Open Hardware License](http://ohwr.org/cernohl), which is one of the open hardware licenses recommended by OSHWA, the Open Source Hardware Association. The release involves every single piece of our design except components we have no control over, like the Raspberry Pi. We've also joined the [Open Source Hardware Certification Program](http://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/).
+We're open-sourcing all our designs under the [CERN Open Hardware License](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2), which is one of the open hardware licenses recommended by OSHWA, the Open Source Hardware Association. The release involves every single piece of our design except components we have no control over, like the Raspberry Pi. We've also joined the [Open Source Hardware Certification Program](http://www.oshwa.org/2016/10/07/announcing-the-oshwa-open-source-hardware-certification-program/).
 
 ![alt text](https://github.com/MycroftAI/hardware-mycroft-mark-1/blob/master/oshw.png "OSHW")
 
